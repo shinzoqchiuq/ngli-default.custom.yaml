@@ -1,0 +1,13 @@
+patch:
+  schema_list:
+    - schema: wugniu_zaonhe        # 上海
+    - schema: wugniu_zaonhe_laupha # 上海（老派）
+    - schema: wugniu_sonkaon       # 松江
+    - schema: wugniu_soutseu       # 苏州
+    - schema: wugniu_donshian      # 桐乡
+    - schema: wugniu_haegnin       # 海宁
+    - schema: wugniu_haeye         # 海盐
+    - schema: wugniu_kashin        # 嘉兴
+    - schema: wugniu_kazoe         # 嘉善
+    - schema: wugniu_gninpou       # 宁波
+    - schema: wugniu_gnincieu      # 鄞州
